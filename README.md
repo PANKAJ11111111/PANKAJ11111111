@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pankaj+Saratkar+👋;Software+Engineer+%7C+AI+%26+ML+Enthusiast;Cybersecurity+%7C+Data+Analyst+%7C+Content+Creator;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=900&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%20there!%20I%27m%20Pankaj%20Saratkar;Software%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast;Cybersecurity%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Content%20Creator;Always%20learning%20new%20things" alt="Typing SVG" />
 </p>
+
 
 ---
 
