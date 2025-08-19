@@ -59,12 +59,12 @@ I’m **Pankaj Saratkar**, a final-year **B.Tech CSE (AI)** student at Medi-Caps
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajSaratkar&show_icons=true&theme=radical" alt="Pankaj's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSaratkar&theme=radical" alt="Pankaj's Streak Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PANKAJ11111111&show_icons=true&theme=radical" alt="Pankaj's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANKAJ11111111&theme=radical" alt="Pankaj's Streak Stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSaratkar&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANKAJ11111111&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ I’m **Pankaj Saratkar**, a final-year **B.Tech CSE (AI)** student at Medi-Caps
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj-saratkar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:pankajsaratkar03@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48"/></a>
-  <a href="https://github.com/PankajSaratkar"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/PANKAJ11111111"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
