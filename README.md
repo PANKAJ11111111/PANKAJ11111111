@@ -1,108 +1,35 @@
-<!--
-  Hi there! Thanks for peeking into my README source.
-  Feel free to reuse this template. Star ⭐ if you find it helpful!
--->
+<h1 align="center">Hi 👋, I'm PANKAJ SARATKAR</h1>
+<h3 align="center">A passionate frontend devExploring AI, Cybersecurity & Full-Stack Development with a problem-solving mindseteloper from India</h3>
 
-<h1 align="center">Hi, I'm Pankaj Saratkar 👋</h1>
-<p align="center">
-  <b>Final-year B.Tech CSE (AI)</b> • Python & ML • Web Dev • Data Analytics • Cybersecurity Enthusiast
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj11111111&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj11111111" /> </p>
 
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-contact-red?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Saratkar-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://pankaj-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-visit-0A66C2?style=flat-square"></a>
-  <a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-profile-F89F1B?style=flat-square&logo=leetcode&logoColor=white"></a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj11111111" alt="pankaj11111111" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🙋‍♂️ About Me
-- 🎓 Final-year **B.Tech CSE (AI)** @ Medi-Caps University (CGPA: **8.76**)
-- 💼 **Software Engineer Trainee** @ **Techsolvo LLP**  
-  → Working on a **Dubai-based client’s ERP** product inventory portal  
-  → Also creating coding content for **CodersDaily**
-- 🔐 **PwC Cyber Risk & Regulatory Launchpad (2025)** — completed
-- 🧪 Research Presenter @ **RAMSITA 2025** (AI + IoT for smart irrigation)
-- 🚀 I love building practical tools that solve real problems using **Python, ML, and the Web**
+- 🔭 I’m currently working on **Real-world ERP product inventory management for a Dubai-based client at Techsolvo LLP.**
 
----
+- 🌱 I’m currently learning **Advanced Machine Learning & AI Algorithms, Cybersecurity practices through PwC Launchpad , Data Analysis & Visualization with Python (NumPy, Pandas, Matplotlib, Seaborn), Docker & Cloud Computing for scalable deployments , Blockchain fundamentals and its real-world applications**
 
-## 🧰 Tech Stack
-**Languages:**  
-`Python` `C++` `C` `JavaScript` `R`
+- 👨‍💻 All of my projects are available at [https://pankaj-saratkar-alnu9lq.gamma.site/](https://pankaj-saratkar-alnu9lq.gamma.site/)
 
-**AI/DS:**  
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Alteryx`
+- 📫 How to reach me **pankajsaratkar33@gmail.com**
 
-**Web:**  
-`HTML` `CSS` `Bootstrap` *(React basics)*
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z6tszfnpwy07LTH5fqRpvfV9pXpImJZL/view?usp=drive_link](https://drive.google.com/file/d/1Z6tszfnpwy07LTH5fqRpvfV9pXpImJZL/view?usp=drive_link)
 
-**Databases & Tools:**  
-`MySQL` `MongoDB` `Git/GitHub` `MATLAB` `StarUML` `Docker (Foundations)`
+- ⚡ Fun fact **I’ve solved 800+ coding problems across platforms like LeetCode and CodeStudio. I started my journey in AI by building a Yoga Website, and now I’m working on Machine Learning projects. Apart from coding, I enjoy content creation and mentoring fellow students. I believe debugging teaches more patience than meditation 🧘‍♂️💻.**
 
-**Security & Emerging Tech:**  
-`Cybersecurity (Foundational)` `Blockchain (Intro)`
-
----
-
-## 🛠️ Featured Projects
-- **Personal Expense Management System (Python)**  
-  Registration/login, budgeting, categorization, filtering, monthly targets; data persisted via `pickle`.
-
-- **Spam Email Detector (ML)**  
-  Logistic Regression + TF-IDF; full pipeline: preprocessing → training → evaluation.
-
-- **Quiz Gaming Web App (HTML/CSS/JS)**  
-  Timed quizzes, scoring, dynamic feedback, responsive UI.
-
-- **Yoga Class Website (HTML/CSS)**  
-  Clean, responsive site with subtle animations and serene design.
-
-> 🔗 Add repo links once public:
-> - Expense Manager: `https://github.com/your-username/expense-manager`
-> - Spam Detector: `https://github.com/your-username/spam-detector`
-> - Quiz App: `https://github.com/your-username/quiz-game`
-> - Yoga Site: `https://github.com/your-username/yoga-site`
-
----
-
-## 🏅 Certifications
-- **PwC Cyber Risk & Regulatory Launchpad (2025)**
-- **Cisco Cybersecurity Essentials (Feb 2025)**
-- **Alteryx**: Micro-Credential • General Knowledge • **Core Designer (Data Prep)** • **Machine Learning**
-- **MathWorks**: Image Processing Onramp
-- **Coding Ninjas**: Data Structures in C++ • Front End | Full-Stack (Frontend)
-
----
-
-## 💼 Experience (Quick View)
-- **Techsolvo LLP** — *Software Engineer Trainee* (Jul 2025 – Present)  
-  ERP inventory modules for a Dubai client • Content creator at CodersDaily.
-- **PwC Launchpad** — *Cybersecurity & Python Projects* (Feb 2025 – Jul 2025)
-- **Coding Ninjas** — *Front End & DSA Teaching Assistant* (Feb 2024 – Jul 2024)  
-  1,000+ doubts resolved • Debugging • Mentoring
-
----
-
-## 📈 GitHub Stats
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+<a href="https://linkedin.com/in/pankaj-saratkar-6a396721a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-saratkar-6a396721a" height="30" width="40" /></a>
+<a href="https://instagram.com/saratkar__ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saratkar__ji" height="30" width="40" /></a>
 </p>
 
-<!-- Optional: Streaks -->
-<!-- <p><img height="165" src="https://streak-stats.demolab.com?user=your-username" /></p> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj11111111&show_icons=true&locale=en&layout=compact" alt="pankaj11111111" /></p>
 
-## 📫 Connect
-- 📧 Email: **youremail@example.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/your-linkedin**  
-- 🌐 Portfolio: **https://pankaj-portfolio.example.com**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj11111111&show_icons=true&locale=en" alt="pankaj11111111" /></p>
 
----
-
-### 🌟 Fun Fact
-I love turning data into decisions and ideas into code. If it helps someone in the real world, I’m interested!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj11111111&" alt="pankaj11111111" /></p>
